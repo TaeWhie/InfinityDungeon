@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8097d226862fa8a4ea35aba063eea7e0
+  m_SerializeEntries:
+  - m_GUID: 083d292927b532b46a9de6861d7f7c2d
+    m_Address: WaveChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30052cbd52ff458408c7253451fcebef
+    m_Address: PlayerChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13a5b76cdd2e64d45b01e4927f14da6f
+    m_Address: MonsterChart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d0887bbcfb772d34fbe2ad84c4ef3217, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e0402e99e1137f44cbe7900bdc75a149, type: 2}
+    - {fileID: 11400000, guid: ffdc5c5bd1ae94f4e9cbacac92fa1c38, type: 2}
